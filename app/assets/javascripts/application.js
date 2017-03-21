@@ -15,5 +15,12 @@
 //= require turbolinks
 //= require react
 //= require react_ujs
+//= require immutable.min
+ 
+//= require alt_init
+//= require routes_init
+//= require addons_init
+ 
+//= require routes
 //= require components
 //= require_tree .
